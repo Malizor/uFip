@@ -1,0 +1,15 @@
+{
+    "name": "ufip.malizor",
+    "description": "Allow you to listen to the Fip radio. This application supports background playback.",
+    "architecture": "all",
+    "title": "A simple (unofficial) Fip radio webapp",
+    "hooks": {
+        "uFip": {
+            "apparmor": "uFip.apparmor",
+            "desktop": "uFip.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nicolas Delvaux <contact@nicolas-delvaux.org>",
+    "framework": "ubuntu-sdk-15.04.4"
+}

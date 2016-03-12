@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=uFip
+Comment=Unofficial webapp for the French "Fip" Radio.
+Comment[fr]=Application non-officielle pour la radio Fip.
+Type=Application
+Icon=uFip.png
+Exec=webapp-container --enable-media-hub-audio --webappUrlPatterns=http://www.fipradio.fr/* http://www.fipradio.fr/player %u
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Default-Department-ID=sound-video
+X-Ubuntu-Single-Instance=true
