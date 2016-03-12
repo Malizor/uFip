@@ -6,6 +6,10 @@ The main point of this webapp is that it supports background playback.
 This means that, contrary to the current default Web browser on the phone,
 you do not have to let the screen on and the application focused to prevent the stream interruption.
 
+## Installation
+
+uFip is available in the [Ubuntu Store](https://uappexplorer.com/app/ufip.malizor).
+
 ## Disclaimer
 
 This application is **NOT** official. It is not supported by Fip or Radio France.
