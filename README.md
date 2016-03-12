@@ -14,4 +14,4 @@ This application is **NOT** official. It is not supported by Fip or Radio France
 ## License
 
 The MIT license (MIT).  
-Please refer to the **COPYING** file.
+Please refer to the **COPYING.md** file.
